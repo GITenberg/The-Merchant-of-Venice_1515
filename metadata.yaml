@@ -1,5 +1,5 @@
 _repo: The-Merchant-of-Venice_1515
-_version: 0.2.0
+_version: 0.2.1
 covers:
 - cover_type: generated
   image_path: cover.png
@@ -32,5 +32,6 @@ subjects:
 - !lcsh 'Comedies'
 - !lcsh 'Venice (Italy) -- Drama'
 - !lcsh 'Moneylenders -- Drama'
+- GITenberg
 title: The Merchant of Venice
 url: http://www.gutenberg.org/ebooks/1515
